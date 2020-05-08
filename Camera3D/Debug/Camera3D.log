@@ -1,0 +1,7 @@
+﻿  main.cpp
+F:\OpenGL\Camera3D\Camera3D\main.cpp(186,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\OpenGL\Camera3D\Camera3D\main.cpp(187,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\OpenGL\Camera3D\Camera3D\main.cpp(195,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\OpenGL\Camera3D\Camera3D\main.cpp(196,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\OpenGL\Camera3D\Camera3D\main.cpp(224,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Camera3D.vcxproj -> F:\OpenGL\Camera3D\Debug\Camera3D.exe
